@@ -9,7 +9,7 @@
 }
 .field {
     display: flex;
-    border: 2px solid rgb(132, 129, 169);
+    border: 1px solid rgb(132, 129, 169);
     border-radius: 25px;
     padding: 25px;
     width: 250px;
